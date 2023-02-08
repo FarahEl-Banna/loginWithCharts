@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/loginWithCharts/static/css/main.b9b88ab9.chunk.css",
+    "main.js": "/loginWithCharts/static/js/main.804c769d.chunk.js",
+    "main.js.map": "/loginWithCharts/static/js/main.804c769d.chunk.js.map",
+    "runtime-main.js": "/loginWithCharts/static/js/runtime-main.9ecd2707.js",
+    "runtime-main.js.map": "/loginWithCharts/static/js/runtime-main.9ecd2707.js.map",
+    "static/css/2.d1d0f4df.chunk.css": "/loginWithCharts/static/css/2.d1d0f4df.chunk.css",
+    "static/js/2.c45593c5.chunk.js": "/loginWithCharts/static/js/2.c45593c5.chunk.js",
+    "static/js/2.c45593c5.chunk.js.map": "/loginWithCharts/static/js/2.c45593c5.chunk.js.map",
+    "index.html": "/loginWithCharts/index.html",
+    "static/css/2.d1d0f4df.chunk.css.map": "/loginWithCharts/static/css/2.d1d0f4df.chunk.css.map",
+    "static/css/main.b9b88ab9.chunk.css.map": "/loginWithCharts/static/css/main.b9b88ab9.chunk.css.map",
+    "static/js/2.c45593c5.chunk.js.LICENSE.txt": "/loginWithCharts/static/js/2.c45593c5.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/loginWithCharts/static/media/default-skin.f64c3af3.svg",
+    "static/media/all.min.css": "/loginWithCharts/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecd2707.js",
+    "static/css/2.d1d0f4df.chunk.css",
+    "static/js/2.c45593c5.chunk.js",
+    "static/css/main.b9b88ab9.chunk.css",
+    "static/js/main.804c769d.chunk.js"
+  ]
+}
